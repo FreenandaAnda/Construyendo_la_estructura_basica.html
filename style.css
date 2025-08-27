@@ -1,4 +1,52 @@
 body{
-    background-color: rgb(231, 233, 231);
+    background-color: rgb(133, 93, 185);
     color: rgb(109, 32, 29)
+
+ }
+
+ header { 
+    text-align: center;
+font-family: Verdana;
+font-size: xx-large;
+color: rgb(122, 15, 113);
+font-size: 280%;
+text-decoration:underline;
+ }
+
+h1 {
+text-align: center;
+font-family: Verdana;
+font-size: xx-large;
+color: brown;
+font-size: 350%;
+}
+
+p {
+font-family: Verdana;
+font-size: larger;
+color: rgb(0, 0, 0);
+font-size: 190%;
+}
+
+h2 {
+font-family: Verdana;
+font-size: large;
+color: rgb(4, 6, 126);
+font-size: 200%;
+}
+
+ul {
+list-style-type: square; 
+list-style-position: outside;
+color: rgb(74, 22, 87); /* Sets color of both marker and text */
+font-size: 150%;
+}
+
+footer {
+    align-items: center;
+    font-family: Verdana;
+    font-size: xx-large;
+    color: brown;
+
+
 }
